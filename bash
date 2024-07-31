@@ -1,0 +1,11 @@
+/project
+  /public
+    /css
+      styles.css
+    /js
+      script.js
+    index.html
+    maintenances.html
+  /server
+    app.js
+  package.json
